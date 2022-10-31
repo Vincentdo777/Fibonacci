@@ -18,3 +18,4 @@ public class Fibonaci {
 		return result[num];
 	}
 }
+//O(n);
